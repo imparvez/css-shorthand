@@ -1,7 +1,5 @@
 # CSS ShortHand
 
-Basic useful feature list:
-
  * Background
  	```css
     /*
